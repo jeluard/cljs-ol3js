@@ -6,7 +6,7 @@ Just add as dependency in your `project.clj`:
 :dependencies [[cljs-ol3js "3.0.0-beta.5"]]
 ```
 
-Then use OPenLayers 3 in your ClojureScript code:
+Then use OpenLayers 3 in your ClojureScript code:
 
 ```clojure
 (ns my-ns
