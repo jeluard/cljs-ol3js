@@ -8,7 +8,7 @@ Just add as dependency in your `project.clj`:
 
 Then use OPenLayers 3 in your ClojureScript code:
 
-```
+```clojure
 (ns my-ns
   (:import ol.Map  ol.View2D ol.layer.Tile ol.source.MapQuest))
 
