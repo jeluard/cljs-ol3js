@@ -1,5 +1,7 @@
 [OpenLayers 3](http://ol3js.org/) as a [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) friendy package.
 
+WARNING: does not work with ClojureScript `>= 2227` as of now. 
+
 Just add as dependency in your `project.clj`:
 
 ```clojure
