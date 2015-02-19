@@ -1,3 +1,5 @@
+_This project has been deprecated in favor of the [cljsjs package](https://github.com/cljsjs/packages/tree/master/openlayers)._
+
 [OpenLayers 3](http://ol3js.org/) as a [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) friendy package.
 
 WARNING: does not work with ClojureScript `>= 2227` as of now. 
